@@ -1,0 +1,7 @@
+{
+  "token_type": "Bearer",
+  "issued_at": "1730000000",
+  "client_id": "test-client",
+  "access_token": "fixture-access-token",
+  "expires_in": "14400"
+}

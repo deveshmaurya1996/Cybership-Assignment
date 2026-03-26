@@ -1,0 +1,40 @@
+{
+  "RateResponse": {
+    "Response": {
+      "ResponseStatus": {
+        "Code": "1",
+        "Description": "Success"
+      }
+    },
+    "RatedShipment": [
+      {
+        "Service": {
+          "Code": "03",
+          "Description": "Ground"
+        },
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "MonetaryValue": "12.34"
+        },
+        "BillingWeight": {
+          "Weight": "2",
+          "UnitOfMeasurement": {
+            "Code": "LBS",
+            "Description": "Pounds"
+          }
+        },
+        "Zone": "4"
+      },
+      {
+        "Service": {
+          "Code": "02",
+          "Description": "2nd Day Air"
+        },
+        "TransportationCharges": {
+          "CurrencyCode": "USD",
+          "MonetaryValue": "45.67"
+        }
+      }
+    ]
+  }
+}

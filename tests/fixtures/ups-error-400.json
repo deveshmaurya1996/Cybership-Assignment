@@ -1,0 +1,10 @@
+{
+  "response": {
+    "errors": [
+      {
+        "code": "111285",
+        "message": "Hard: The requested service is invalid from the selected origin."
+      }
+    ]
+  }
+}
